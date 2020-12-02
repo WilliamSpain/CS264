@@ -1,0 +1,13 @@
+E:\Users\William\Desktop\MYAPP\assignmentThree\bin\Debug\netcoreapp3.1\assignmentThree.exe
+E:\Users\William\Desktop\MYAPP\assignmentThree\bin\Debug\netcoreapp3.1\assignmentThree.deps.json
+E:\Users\William\Desktop\MYAPP\assignmentThree\bin\Debug\netcoreapp3.1\assignmentThree.runtimeconfig.json
+E:\Users\William\Desktop\MYAPP\assignmentThree\bin\Debug\netcoreapp3.1\assignmentThree.runtimeconfig.dev.json
+E:\Users\William\Desktop\MYAPP\assignmentThree\bin\Debug\netcoreapp3.1\assignmentThree.dll
+E:\Users\William\Desktop\MYAPP\assignmentThree\bin\Debug\netcoreapp3.1\assignmentThree.pdb
+E:\Users\William\Desktop\MYAPP\assignmentThree\obj\Debug\netcoreapp3.1\assignmentThree.csprojAssemblyReference.cache
+E:\Users\William\Desktop\MYAPP\assignmentThree\obj\Debug\netcoreapp3.1\assignmentThree.AssemblyInfoInputs.cache
+E:\Users\William\Desktop\MYAPP\assignmentThree\obj\Debug\netcoreapp3.1\assignmentThree.AssemblyInfo.cs
+E:\Users\William\Desktop\MYAPP\assignmentThree\obj\Debug\netcoreapp3.1\assignmentThree.csproj.CoreCompileInputs.cache
+E:\Users\William\Desktop\MYAPP\assignmentThree\obj\Debug\netcoreapp3.1\assignmentThree.dll
+E:\Users\William\Desktop\MYAPP\assignmentThree\obj\Debug\netcoreapp3.1\assignmentThree.pdb
+E:\Users\William\Desktop\MYAPP\assignmentThree\obj\Debug\netcoreapp3.1\assignmentThree.genruntimeconfig.cache
