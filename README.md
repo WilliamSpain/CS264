@@ -1,2 +1,2 @@
 # CS264
-builds on assignment 2 user input stuff commented out 
+simple SVG shape creator builds on assignment 2 
